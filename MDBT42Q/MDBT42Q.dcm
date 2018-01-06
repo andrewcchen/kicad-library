@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MDBT42Q
+D nRF52832 based BLE module
+K bluetooth, module, nrf52832
+F http://www.raytac.com/download/MDBT42/MDBT42Q-Version%20E.PDF
+$ENDCMP
+#
+#End Doc Library
